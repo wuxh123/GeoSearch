@@ -1,0 +1,2 @@
+# GeoSearch
+基于geohash算法的位置搜索，利用elasticsearch优化，同时mysql空间数据库引擎的测试
