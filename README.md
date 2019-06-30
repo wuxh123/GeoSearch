@@ -17,11 +17,12 @@ java8、elasticsearch6.2.3
 4．	利用jmeter模拟一万个客户端在线，每15秒刷新一次数据，Cpu负荷60%。
 
 ## 配置
-![Image text](img/3.jpg)
 ![Image text](img/4.jpg)
 ## 添加测试数据
 ![Image text](img/1.jpg)
 ## 启动es
+![Image text](img/3.jpg)
+## 测试
 ![Image text](img/2.jpg)
 
 
